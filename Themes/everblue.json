@@ -2,7 +2,8 @@
     "manifest": {
         "name": "Everblue (remake)",
         "version": "1.0.0",
-        "author": "wayne.python"
+        "author": "wayne.python",
+        "updater": "https:\/\/raw.githubusercontent.com\/Waynecoffe\/Aliuwuvord\/refs\/heads\/main\/Themes\/everblue.json"
     },
     "background": {},
     "fonts": {
